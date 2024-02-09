@@ -1,5 +1,5 @@
 # Astrolaxy
-A Go library for astronomy, physics and mathematics
+A JS library for astronomy, physics and mathematics
 
 ## Key features
 - Lightweight, fast and simple: astrolaxy is extremely fast and lightweight;
