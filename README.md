@@ -13,5 +13,5 @@ A JS library for astronomy, physics and mathematics
 ## How to use
 You can use it with `jsDelivr`, see:
 ```bash
-go get -u github.com/simplyYan/astrolaxy-go
+https://cdn.jsdelivr.net/gh/simplyYan/astrolaxy-js@main/DONATE.MD
 ```
